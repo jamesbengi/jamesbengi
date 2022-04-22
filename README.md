@@ -1,5 +1,5 @@
 ### Hi there, i'm james bengi 👋
-- 🔭 I’m currently working on ecommerce app
+- 🔭 I’m currently working on an ecommerce app
 - 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate on flask projects
 - 🤔 I’m looking for help with ...
