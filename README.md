@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm James Bengi</h1>
 <h3 align="center">I'm a passionate Software Developer from Kenya.</h3>
 
-- 🔭 I’m currently working on an ecommerce app
-- 🌱 I’m currently learning Flask
-- 👯 I’m looking to collaborate on flask projects
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Cloud
+- 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter
 - 📫 How to reach me: jamesbengi21@gmail.com
