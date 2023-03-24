@@ -3,11 +3,11 @@
 <h3 align="center">I'm a passionate Software Developer from Kenya.</h3>
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Cloud
-- 👯 I’m looking to collaborate on Django projects
+- 🌱 I’m currently Data Science
+- 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter
+- 💬 Ask me about Python
 - 📫 How to reach me: jamesbengi21@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love listening to old school hiphop all day
+- ⚡ Fun fact:
 <img src="https://github-readme-stats.vercel.app/api?username=jamesbengi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
