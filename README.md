@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Data Analyst from Kenya.</h3>
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently Data Science
+- 🌱 I’m currently Learning  Data Science
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python
